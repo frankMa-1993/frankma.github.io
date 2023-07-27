@@ -1,47 +1,29 @@
 {
-  "hash": "cfcbe5c7",
-  "browserHash": "19c4ea87",
+  "hash": "949fa67a",
+  "browserHash": "d6b9c35c",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue@3.3.4/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "4fbe2914",
+      "fileHash": "f21b79b0",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "1e468716",
+      "fileHash": "26503761",
       "needsInterop": false
     },
-    "three": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+three@0.154.0/node_modules/three/build/three.module.js",
-      "file": "three.js",
-      "fileHash": "40d2b52e",
-      "needsInterop": false
-    },
-    "gsap": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+gsap@3.12.2/node_modules/gsap/index.js",
-      "file": "gsap.js",
-      "fileHash": "48b63a16",
-      "needsInterop": false
-    },
-    "three/examples/jsm/loaders/GLTFLoader": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+three@0.154.0/node_modules/three/examples/jsm/loaders/GLTFLoader.js",
-      "file": "three_examples_jsm_loaders_GLTFLoader.js",
-      "fileHash": "fbae0aec",
-      "needsInterop": false
-    },
-    "three/examples/jsm/loaders/DRACOLoader": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+three@0.154.0/node_modules/three/examples/jsm/loaders/DRACOLoader.js",
-      "file": "three_examples_jsm_loaders_DRACOLoader.js",
-      "fileHash": "126dc634",
+    "@theme/index": {
+      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vitepress@1.0.0-beta.6_@algolia+client-search@4.19.1_search-insights@2.7.0/node_modules/vitepress/dist/client/theme-default/index.js",
+      "file": "@theme_index.js",
+      "fileHash": "0c36a58d",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-DDMKOIDR": {
-      "file": "chunk-DDMKOIDR.js"
+    "chunk-PC7OZR54": {
+      "file": "chunk-PC7OZR54.js"
     }
   }
 }
